@@ -5,7 +5,7 @@ Implementation of a movie recommender system using content based filtering and c
 This project is done for the machine learning course, Shahid Beheshti University, Fall-2022.
 
 ## Description:
-* Feature Engineerings are done in the file `Feature_Engineering.ipynb`. This script cleans raw given dataFram. 
+* Feature Engineerings are done in the file `Feature_Engineering.ipynb`. This script cleans raw given dataFram and saves cleaned daraFram.
 * `Recommender_System.ipynb` contains both content-based and collaborative filtering algorithms implementation.
 * The final output of code comes from `recommend()` function. This function use both alorithms to calculate final results.
 
