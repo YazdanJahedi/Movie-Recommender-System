@@ -1,3 +1,10 @@
+# DataFram
 IMDB/
+
+# temp files
 .ipynb_checkpoints
 temp/
+mlruns/
+
+# Project pdf
+ML-FinalProject.pdf
